@@ -1,7 +1,7 @@
 # Front end Design Class
 프론트엔드 디자인 과외 ([최윤서](https://github.com/yoonie1005))
 
-![오리엔테이션](../resouce/images/오리엔테이션.png)
+![오리엔테이션](/resouce/images/오리엔테이션.png)
 > 프론트엔드 디자인 과외 관련 자료를 공유합니다. <br>
 > 수업은 GitHub 프로젝트를 생성해여 진행되며, 과제는 [Codepen](https://codepen.io/your-work)으로 제출합니다.
 
