@@ -2,12 +2,7 @@
 
 <br>
 
-## GitHub 형상 관리
-
-<br>
-
-![](https://i.imgur.com/NxoHnE8.png)
-> 프로젝트의 파일 버전관리 및 GitHub Page를 통해 도메인을 생성하여 웹 페이지를 제작합니다.
+![](../resouce/images/오리엔테이션.png)
 
 ### 1. 디자인, 퍼블리싱 Tool 설치
 - 디자인 활용 프로그램 설치
