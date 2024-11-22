@@ -2,7 +2,7 @@
 
 <br>
 
-![](../resouce/images/오리엔테이션.png)
+![오리엔테이션](../resouce/images/오리엔테이션.png)
 
 ### 1. 디자인, 퍼블리싱 Tool 설치
 - 디자인 활용 프로그램 설치
